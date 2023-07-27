@@ -15,7 +15,9 @@ span
 }
 #result_emotion_name ,#result_emotion_name2  
 {
+  font-family: 'Borel', cursive;
   color: black;
+  font-size: 40px;
 }
 .emotion_name
 {
